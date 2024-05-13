@@ -1,4 +1,12 @@
-Imagine we are the member of a Retail company and we wants to fuel its growth by Data-driven approach.
+# Introduce
+Imagine we are the member of a Retail/Telcos company and we wants to fuel its growth by Data-driven approach. This Series has 6 part research about 6 core problem of business:
+- Part 1: [Customer Segmentation](https://github.com/ToanToan110/CustomerSegmentation)
+- Part 2: [Churn Prediction](https://github.com/ToanToan110/ChurnPrediction)
+- Part 3: [Customer's Life Time Value](https://github.com/ToanToan110/CustomerLifeTimeValue)
+- Part 4: [Sales Prediction](https://github.com/ToanToan110/SalesPrediction)
+- Part 5: [Market ResponseModel](https://github.com/ToanToan110/MarketResponseModel)
+- Part 6: [A/B Testing](https://github.com/ToanToan110/A-B-Testing)
+
 # About this Project
 Each customer has unique characteristics in terms of age, gender, income...
 We can’t treat every customer the same way with the same content, same channel, same importance. They will find another option which understands them better.
@@ -15,13 +23,17 @@ Package: Pandas, Matplotlib, Numpy
 Techniques: K-means
 
 ## Resources 
-Dataset:
+Dataset: This notebook use [Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) on Kaggle
 
 References: 
+- https://www.kaggle.com/code/adarshcgowda/new-rfmt-model-for-segmentation-1st-in-kaggle
+- https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b
 
 
 
 ## Process to RFM data
+### Overview dataset:
+
 ### R: The last purchase date of Customer
 ![Recency](https://github.com/ToanToan110/CustomerSegmentation/assets/64849001/c1e93048-5756-429c-98b5-07491d170db9)
 
