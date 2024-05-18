@@ -17,7 +17,7 @@ Depending on the company's needs, there will be different segmentation methods, 
 
 
 
-## Prerequisites
+## Pre-requisites
 Package: Pandas, Matplotlib, Numpy
 
 Techniques: K-means
